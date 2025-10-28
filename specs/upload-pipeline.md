@@ -54,7 +54,7 @@ instead, it provides a platform for users to **upload and share AI-created conte
 
 ---
 
-## 🇬🇧 Upload-to-Publish Flow (English)
+## Upload-to-Publish Flow (English)
 
 1. **Client Validation**  
    Checks the file extension, approximate size, duration, and format before upload.
